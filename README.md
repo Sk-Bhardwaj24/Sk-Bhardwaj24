@@ -1,5 +1,5 @@
 Hi there! I'm Saurabh Kumar Bhardwaj 
--Though I am pursuing Electrical Engineering, I aspire to work as a programmer.
+-Though I am pursuing Electrical Engineering, I am aspire to work as a programmer.
 - I’m currently learning Full Stack Web developement at Masai School. 
 - I’m looking forward to join a reputed startup to enhance my skills more.
 
