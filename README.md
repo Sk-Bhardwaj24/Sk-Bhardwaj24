@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./developer.gif" />
+  <img src="./developer.gif" width="400px"/>
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Saurabh Kumar Bhardwaj</h1>
 <h2 align="center">I'm a passionate Full Stack Developer from India.</h2>
