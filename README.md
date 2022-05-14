@@ -4,8 +4,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Saurabh Kumar Bhardwaj</h1>
 <h2 align="center">I'm a passionate Full Stack Developer from India.</h2>
  <h3 align="center"> Aspiring Web Developer with a passion for web
-application development. Skilled in HTML, CSS,
-JavaScript,React, designing and development of software
+application development. Skilled in frontend, backend, and  designing and development of software
 containing logical and mathematical solutions to
 business problems. Agile and dedicated to drive
 innovation with the ability to follow industry and
@@ -18,7 +17,7 @@ technological trends.
 
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://sk-bhardwaj24.github.io/S.K-Bhardwaj/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://sk-bhardwaj24.github.io/Saurabh-Kumar-Bhardwaj/)**
 
 - 📫 How to reach me **me24.saurabhkumar@gmail.com**
 
